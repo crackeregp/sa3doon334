@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sa3doon334
+- 👋 Hi, I’m saad
 - 👀 I’m interested in ( fullstack develope , machine learning )
 - 🌱 I’m currently learning ( fullstack develope )
 - 💞️ I’m looking to collaborate on project in same things i love to learn fast
